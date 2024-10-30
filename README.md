@@ -3,12 +3,6 @@
 
 ✔️These are the projects for [Uni](https://github.com/drasolo/Uni-projects) and [personal projects](https://github.com/drasolo/Personal-Projects).
 
-📝I am currently working on these projects:
-
-[AIG](https://github.com/drasolo/AIP) /
-[Trip Advisor for Restaurants](https://github.com/drasolo/Trip_Advisor_Restaurants)
-
-
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drasolo&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
