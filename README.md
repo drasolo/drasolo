@@ -17,7 +17,6 @@ Through my GitHub activity, I strive to learn new skills, explore different prog
 
 I believe in the importance of sharing knowledge and contributing to the collective growth of the developer community.</br>
 
-![](https://github-readme-stats.vercel.app/api?username=drasolo&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drasolo&theme=graywhite&hide_border=false)<br/>
 
 ## 🌐 Socials:
