@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drasolo&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 📊 GitHub Stats:
+---
 As a student passionate about coding and technology, I actively contribute to open-source projects and engage with the developer community on GitHub.</br>
 
 My contributions range from personal projects to collaborations with peers and mentors.</br>
