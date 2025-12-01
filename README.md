@@ -8,14 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drasolo&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-As a student passionate about coding and technology, I actively contribute to open-source projects and engage with the developer community on GitHub.</br>
 
-My contributions range from personal projects to collaborations with peers and mentors.</br>
-
-Through my GitHub activity, I strive to learn new skills, explore different programming languages, and gain practical experience in software development.</br>
-
-I believe in the importance of sharing knowledge and contributing to the collective growth of the developer community.</br>
 
 
 ## 🌐 Socials:
