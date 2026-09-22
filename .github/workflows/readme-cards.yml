@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=drasolo&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars,issues,prs,contribs&show=contributions,all_time_contribs&theme=light_github
+          options: username=drasolo&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars,issues,prs,contribs&show=contributions,all_time_contribs&custom_title=GitHub%20stats&theme=light_github
           path: profile/stats-light.svg
           token: ${{ secrets.CARDS_TOKEN }}
           fail_on_error: true
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=drasolo&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars,issues,prs,contribs&show=contributions,all_time_contribs&theme=dark_github
+          options: username=drasolo&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars,issues,prs,contribs&show=contributions,all_time_contribs&custom_title=GitHub%20stats&theme=dark_github
           path: profile/stats-dark.svg
           token: ${{ secrets.CARDS_TOKEN }}
           fail_on_error: true
@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=drasolo&layout=compact&langs_count=6&role=OWNER,COLLABORATOR&hide=jupyter notebook,batchfile,cmake,jinja&theme=light_github
+          options: username=drasolo&layout=compact&langs_count=6&role=OWNER,COLLABORATOR&hide=jupyter notebook,batchfile,cmake,jinja,html,css&exclude_repo=Proiect-DAW,Restaurant-Advisor-Platform&custom_title=Most%20used%20languages&theme=light_github
           path: profile/langs-light.svg
           token: ${{ secrets.CARDS_TOKEN }}
           fail_on_error: true
@@ -48,7 +48,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=drasolo&layout=compact&langs_count=6&role=OWNER,COLLABORATOR&hide=jupyter notebook,batchfile,cmake,jinja&theme=dark_github
+          options: username=drasolo&layout=compact&langs_count=6&role=OWNER,COLLABORATOR&hide=jupyter notebook,batchfile,cmake,jinja,html,css&exclude_repo=Proiect-DAW,Restaurant-Advisor-Platform&custom_title=Most%20used%20languages&theme=dark_github
           path: profile/langs-dark.svg
           token: ${{ secrets.CARDS_TOKEN }}
           fail_on_error: true
