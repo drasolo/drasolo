@@ -23,7 +23,7 @@ Next: retrieving similar past episodes to inform each hypothesis, an agent that 
 
 ### Life OS · [dra-solo.com](https://dra-solo.com)
 
-My own tracker for habits, training and food. One Cloudflare Worker serves both the site and its API from a D1 database. NFC tags around my home log a habit with one tap. Logs are append-only, and totals are computed when read, never stored. There is no build step and no npm dependency. GitHub Actions deploys it, and a smoke test checks every route.
+My own life tracker, still in progress. Habits and training are live, the food catalog is loaded but has no API yet, and spending and career tracking come next. One Cloudflare Worker serves both the site and its API from a D1 database. NFC tags around my home log a habit with one tap. Logs are append-only, and totals are computed when read, never stored. There is no build step and no npm dependency. GitHub Actions deploys it, and a smoke test checks every route.
 
 `JavaScript` `Cloudflare Workers` `D1 (SQLite)`
 
